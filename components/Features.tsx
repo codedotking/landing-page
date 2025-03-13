@@ -1,5 +1,4 @@
 import React from 'react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 
 const Features: React.FC = () => {
   return (

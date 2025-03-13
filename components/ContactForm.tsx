@@ -38,7 +38,7 @@ const ContactForm: React.FC = () => {
       {isSubmitted ? (
         <div className="bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded relative animate-in" role="alert">
           <strong className="font-bold">Success!</strong>
-          <span className="block sm:inline"> Your message has been sent. We'll get back to you soon.</span>
+          <span className="block sm:inline"> Your message has been sent. We&apos;ll get back to you soon.</span>
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="space-y-4">

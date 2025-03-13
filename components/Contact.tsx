@@ -8,7 +8,7 @@ const Contact: React.FC = () => {
         <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12 animate-in">
           <h2 className="text-3xl font-bold tracking-tighter md:text-4xl text-gradient">Get In Touch</h2>
           <p className="text-muted-foreground max-w-[700px]">
-            Have questions or need more information? Reach out to our team and we'll get back to you as soon as possible.
+            Have questions or need more information? Reach out to our team and we&apos;ll get back to you as soon as possible.
           </p>
         </div>
         

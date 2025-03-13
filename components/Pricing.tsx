@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from './ui/button';
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from './ui/card';
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 
 const Pricing: React.FC = () => {
   return (

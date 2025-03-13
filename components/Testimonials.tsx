@@ -8,7 +8,7 @@ const Testimonials: React.FC = () => {
         <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12 animate-in">
           <h2 className="text-3xl font-bold tracking-tighter md:text-4xl text-gradient">What Our Clients Say</h2>
           <p className="text-muted-foreground max-w-[700px]">
-            Don't just take our word for it. Here's what our users have to say about Finwise.
+            Don&apos;t just take our word for it. Here&apos;s what our users have to say about Finwise.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -40,7 +40,7 @@ const Testimonials: React.FC = () => {
             </CardHeader>
             <CardContent className="pt-4">
               <p className="text-sm">
-                "Finwise has completely transformed how I manage my business finances. The budgeting tools are intuitive, and the expense tracking has saved me hours of work each month. Highly recommended!"
+                &quot;Finwise has completely transformed how I manage my business finances. The budgeting tools are intuitive, and the expense tracking has saved me hours of work each month. Highly recommended!&quot;
               </p>
             </CardContent>
             <CardFooter className="border-t pt-4 flex justify-between">
@@ -89,7 +89,7 @@ const Testimonials: React.FC = () => {
             </CardHeader>
             <CardContent className="pt-4">
               <p className="text-sm">
-                "As a freelancer, keeping track of my finances was always a challenge. Finwise makes it simple with automatic categorization and tax preparation features. It's been a game-changer for my business."
+                &quot;As a freelancer, keeping track of my finances was always a challenge. Finwise makes it simple with automatic categorization and tax preparation features. It&apos;s been a game-changer for my business.&quot;
               </p>
             </CardContent>
             <CardFooter className="border-t pt-4 flex justify-between">
@@ -138,7 +138,7 @@ const Testimonials: React.FC = () => {
             </CardHeader>
             <CardContent className="pt-4">
               <p className="text-sm">
-                "I've tried several financial apps, but Finwise stands out with its clean interface and powerful features. The investment tracking and portfolio analysis tools have helped me make smarter financial decisions."
+                &quot;I&apos;ve tried several financial apps, but Finwise stands out with its clean interface and powerful features. The investment tracking and portfolio analysis tools have helped me make smarter financial decisions.&quot;
               </p>
             </CardContent>
             <CardFooter className="border-t pt-4 flex justify-between">
